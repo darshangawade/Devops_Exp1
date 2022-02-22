@@ -1,1 +1,2 @@
-this is 1.txt initial file
+this is 1.txt initial file.
+1.txt modified by second member.
