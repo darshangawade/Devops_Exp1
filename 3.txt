@@ -1,1 +1,3 @@
 this is 3.txt on branch b1
+
+modified inside branch b1.1
